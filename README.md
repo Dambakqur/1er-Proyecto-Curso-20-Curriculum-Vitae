@@ -1,2 +1,2 @@
-Hello! This link should lead you to my CV. https://dambakqur.github.io/1er-Proyecto-Curso-20-Curriculum-Vitae/HTML/intro.html
+Hello! This link should lead you to my CV. type "html/intro.html" next to the tex in the search bar to see my cv!
 Hope you well.~ 
